@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\OneDrive\\Documents\\Code Stack Academy\\Homework\\DDecoito_Mini_Challenge_6\\DDecoito_Mini_Challenge_6.csproj": {}
+    "/Users/bernardo/Documents/GitRepository/DecoitoDOddOrEven_6/DDecoito_Mini_Challenge_6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\OneDrive\\Documents\\Code Stack Academy\\Homework\\DDecoito_Mini_Challenge_6\\DDecoito_Mini_Challenge_6.csproj": {
+    "/Users/bernardo/Documents/GitRepository/DecoitoDOddOrEven_6/DDecoito_Mini_Challenge_6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Documents\\Code Stack Academy\\Homework\\DDecoito_Mini_Challenge_6\\DDecoito_Mini_Challenge_6.csproj",
+        "projectUniqueName": "/Users/bernardo/Documents/GitRepository/DecoitoDOddOrEven_6/DDecoito_Mini_Challenge_6.csproj",
         "projectName": "DDecoito_Mini_Challenge_6",
-        "projectPath": "C:\\Users\\danie\\OneDrive\\Documents\\Code Stack Academy\\Homework\\DDecoito_Mini_Challenge_6\\DDecoito_Mini_Challenge_6.csproj",
-        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\OneDrive\\Documents\\Code Stack Academy\\Homework\\DDecoito_Mini_Challenge_6\\obj\\",
+        "projectPath": "/Users/bernardo/Documents/GitRepository/DecoitoDOddOrEven_6/DDecoito_Mini_Challenge_6.csproj",
+        "packagesPath": "/Users/bernardo/.nuget/packages/",
+        "outputPath": "/Users/bernardo/Documents/GitRepository/DecoitoDOddOrEven_6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/bernardo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
